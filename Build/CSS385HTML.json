@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CSS385 HW1",
+"dataUrl": "CSS385HTML.data.unityweb",
+"wasmCodeUrl": "CSS385HTML.wasm.code.unityweb",
+"wasmFrameworkUrl": "CSS385HTML.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
