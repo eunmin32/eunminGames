@@ -1,7 +1,7 @@
 # Game Links!
 Game Codes are in Assets Folder! 
 
-##COVID CRASHER
+## COVID CRASHER
 https://simmer.io/@Khaoula/covidcrasher-final
 
 ## Chicken Game 2P
