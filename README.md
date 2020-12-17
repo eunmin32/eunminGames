@@ -19,6 +19,6 @@ https://eunmin32.github.io/eunminGames/EnemyBehavior
 https://eunmin32.github.io/eunminGames/Editor
 
 ## 3D Graphic Demo
-NOT BUILT FOR WEBGL - VERY LAGGY 
+NOT BUILT FOR WEBGL - VERY LAGGY ;<br/>
 Credit: Me, Adhiesha Jayasinghe
 https://eunmin32.github.io/eunminGames/DemoWebGL/
