@@ -2,6 +2,7 @@
 Game Codes are in Assets Folder! 
 
 ## COVID CRASHER
+Credit: Me, Khaoula Bahloul, Gabriel Oliver, Amman Nega, Johnny Pham;<br/>
 https://simmer.io/@Khaoula/covidcrasher-final
 
 ## Chicken Game 2P
@@ -16,3 +17,8 @@ https://eunmin32.github.io/eunminGames/EnemyBehavior
 
 ## 3D Editor 
 https://eunmin32.github.io/eunminGames/Editor
+
+## 3D Graphic Demo
+NOT BUILT FOR WEBGL - VERY LAGGY 
+Credit: Me, Adhiesha Jayasinghe
+https://eunmin32.github.io/eunminGames/DemoWebGL/
