@@ -18,7 +18,3 @@ https://eunmin32.github.io/eunminGames/EnemyBehavior
 ## 3D Editor 
 https://eunmin32.github.io/eunminGames/Editor
 
-## 3D Graphic Demo
-NOT BUILT FOR WEBGL - VERY LAGGY stage&nbsp;<br/>
-Credit: Me, Adhiesha Jayasinghe stage&nbsp;<br/>
-https://eunmin32.github.io/eunminGames/DemoWebGL/
