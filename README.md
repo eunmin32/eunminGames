@@ -1,7 +1,7 @@
 # Game Links!
 Game Codes are in Assets Folder! 
 
-## Unity Editor Repository
+## 3D Graphic Repository
 Contains projects that touches deeper into 3D graphic
 like shader, sceneNode and mesh manipulation 
 https://github.com/eunmin32/UnityEngine
@@ -19,7 +19,4 @@ https://eunmin32.github.io/eunminGames/HeroBehavior
 
 ## Enemy Behavior
 https://eunmin32.github.io/eunminGames/EnemyBehavior
-
-## 3D Editor 
-https://eunmin32.github.io/eunminGames/Editor
 
